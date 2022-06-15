@@ -1,4 +1,4 @@
-# NTHU_Computer_Graphics2021
+# NTHU-Computer_Graphics-2021
 
 ## HW1-Transformation
 
